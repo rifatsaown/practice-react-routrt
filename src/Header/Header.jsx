@@ -5,7 +5,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="header">
-      <h2 style={{color : "purple"}}>RS</h2>
+      <h2>RS</h2>
       <nav>
       <Link to='/home'>Home</Link>
       <Link to='/about'>About</Link>
